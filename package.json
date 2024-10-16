@@ -15,13 +15,15 @@
     "css",
     "scss",
     "javascript",
-    "web",
-    "development"
+    "web development"
   ],
   "author": "Akshayakumar Janaj",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/janajakshayakumar24/webdev-fundamentals/issues"
   },
-  "homepage": "https://github.com/janajakshayakumar24/webdev-fundamentals#readme"
+  "homepage": "https://github.com/janajakshayakumar24/webdev-fundamentals#readme",
+  "devDependencies": {
+    "sass": "^1.79.5"
+  }
 }
