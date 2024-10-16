@@ -1,0 +1,27 @@
+{
+  "name": "webdev-fundamentals",
+  "version": "1.0.0",
+  "description": "A repository for web development fundamentals",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janajakshayakumar24/webdev-fundamentals.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "scss",
+    "javascript",
+    "web",
+    "development"
+  ],
+  "author": "Akshayakumar Janaj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/janajakshayakumar24/webdev-fundamentals/issues"
+  },
+  "homepage": "https://github.com/janajakshayakumar24/webdev-fundamentals#readme"
+}
